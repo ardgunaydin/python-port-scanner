@@ -1,4 +1,16 @@
+# Scan output files
+results.json
+results.csv
+
+# Python cache
 __pycache__/
 *.pyc
-.venv/
+
+# Virtual environments
 venv/
+.venv/
+
+# IDE / OS files
+.vscode/
+.DS_Store
+Thumbs.db
